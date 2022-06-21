@@ -45,7 +45,7 @@ MarkupSafe==0.23
 matplotlib==2.1.0
 msgpack-python==0.4.8
 nltk==3.2.5
-numpy==1.13.3
+numpy==1.22.0
 openpyxl==2.4.9
 pandas==0.21.0
 parso==0.1.0
